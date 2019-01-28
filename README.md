@@ -52,5 +52,8 @@
   - 组件中 class名 为 `className = "xxx"`
   - css tyle 可封装到 json格式 放到自定义组件 内部  属性名需要修改
 
+ 3. 设计复合控件
+
+
 
 
