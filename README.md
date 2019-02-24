@@ -1,5 +1,6 @@
 ### 笑看风雨淡，坐看云起时。
 
+### 启动服务器，用 python 服务器， 启动命令：python -m http.server
 ### day 1:
 
 1. 什么是单页 app应用
@@ -58,7 +59,15 @@
    - `...` 属性的扩展操作符     `...this.props`  意义深远 逐个 解析 json里面的对象  react 特用的
    - 减少了工作量 及 bug
 
-   7-2 end
+  
+### day 3:
+1. 组件的状态机制
+ 
+##原生接口##
+ - getInitialState 初始化
+ - componentDidMount  组件被浏览器加载之后，但未绘制界面进行调用 该函数
+ - setState 用来修改组件本身的state 对象
+
 
 
 
